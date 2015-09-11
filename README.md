@@ -4,9 +4,13 @@ This corpus contains plain text versions of publications by the American Tract S
 
 The texts themselves are in the `corpus` directory. The file `manifest.csv` contains the file names in the corpus along with associated metadata.
 
+### Downloading the corpus
+
+The corpus can be downloaded here: <http://lincolnmullen.com/files/ats_corpus.zip>
+
 ### Reproducing the corpus
 
-You can reproduce the corpus using the code available [on GitHub](https://github.com/lmullen/ats-corpus).
+You can reproduce the corpus using the code available [on GitHub](https://github.com/lmullen/ats-corpus). The texts themselves are too big for the GitHub repository.
 
 ### Copyright and license
 
